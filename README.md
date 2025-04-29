@@ -1,6 +1,6 @@
 # Sigma Programi Apps
 
-Welcome to the **Sigma Programi Apps** repository. This repository contains desktop application setup files created and maintained by Sigma Programi.
+Welcome to the **Sigma Programi Apps** repository. This repository contains desktop application setup files created and maintained by sigma-programi.com.
 
 ## 📦 Available App
 
@@ -17,4 +17,18 @@ Welcome to the **Sigma Programi Apps** repository. This repository contains desk
 
 ---
 
+© 2025 Sigma Programi. All rights reserved.
+
+
+## 🇷🇸 Objašnjenje na bosanskom jeziku
+
+Ovaj repozitorijum sadrži instalacioni fajl za aplikaciju **DesktopStickers**, koju je razvio **sigma-programi.com**.
+
+### 📝 Kako da instalirate
+
+1. Preuzmite `DesktopStickersSetup.exe` iz ovog repozitorijuma.
+2. Pokrenite instalaciju dvoklikom na fajl.
+3. Pratite uputstva na ekranu.
+
+Ukoliko naiđete na bilo kakve probleme, slobodno nas kontaktirajte.
 © 2025 Sigma Programi. All rights reserved.
