@@ -20,7 +20,7 @@ Welcome to the **Sigma Programi Apps** repository. This repository contains desk
 © 2025 Sigma Programi. All rights reserved.
 
 
-## 🇷🇸 Objašnjenje na bosanskom jeziku
+## ba Objašnjenje na bosanskom jeziku
 
 Ovaj repozitorijum sadrži instalacioni fajl za aplikaciju **DesktopStickers**, koju je razvio **sigma-programi.com**.
 
